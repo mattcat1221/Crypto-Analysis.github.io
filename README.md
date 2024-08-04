@@ -21,7 +21,10 @@ This project aims to analyze and cluster cryptocurrencies based on their market 
 - [Contact](#contact)
 
 ## Installation
-Pandas: For data manipulation and analysis. scikit-learn: For machine learning algorithms, including K-Means clustering and PCA. matplotlib: For plotting basic visualizations. hvplot: For creating interactive visualizations. holoviews: For creating high-level interactive plots. bokeh: A backend for HoloViews to render the plots.
+Pandas: For data manipulation and analysis. 
+scikit-learn: For machine learning algorithms, including K-Means clustering and PCA. 
+matplotlib: For plotting basic visualizations.
+hvplot: For creating interactive visualizations. holoviews: For creating high-level interactive plots. bokeh: A backend for HoloViews to render the plots.
 
 ## Usage
 Data analysis
