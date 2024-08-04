@@ -7,7 +7,9 @@
 ## Description
 This project aims to analyze and cluster cryptocurrencies based on their market data using K-Means clustering and Principal Component Analysis (PCA). The analysis includes scaling data, determining the optimal number of clusters, and visualizing the clusters.
 
-![app_image](/Users/cmatthews/Desktop/Data-Analyst/Projects/Crypto-Clustering Analysis/output2.png)
+![output2](https://github.com/user-attachments/assets/f5b49851-1cef-46d9-ae1f-1a735f100246)
+
+
 
 ## Table of Contents
 - [Installation](#installation)
